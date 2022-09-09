@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Getting started with Node js and Express",
+  "main": "apps.js",
+  "scripts": {
+    "start": "nodemon apps.js"
+  },
+  "author": "Daegan Palermo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

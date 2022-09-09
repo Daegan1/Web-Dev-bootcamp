@@ -1,0 +1,80 @@
+body {
+  background-color: white;
+  text-align: left;
+  font-family: 'robot' 'sans-serif';
+  border: 5px;
+  margin: 10px;
+}
+
+header {
+  font-family: "Oswald" "san firs";
+  font-size: bold 24px;
+  text-align: center;
+  color: rgb(11, 117, 103);
+  padding: 32px;
+}
+
+header img {
+  width: 300px;
+}
+
+main {
+  background-color: cornflowerblue;
+  padding: 32px;
+  margin: 32px auto;
+  width: 700px;
+  border-radius: 8px;
+  color: antiquewhite;
+
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li {
+  margin: 14px 0;
+  padding: 10px;
+  border-left: 5px solid transparent;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(36, 3, 102);
+  background-color: rgb(255, 237, 177);
+  padding: 2px 6px;
+  border-radius: 8px;
+}
+
+a:hover, a:active {
+  background-color: rgb(250, 201, 39);
+
+}
+
+footer {
+  text-align: center;
+  margin: 10px 4px;
+  border: 6px 4px;
+  border-radius: 8px;
+}
+
+footer p {
+  color:turquoise;
+  margin-top: 20px;
+}
+footer a {
+  padding: 12px 20px;
+  border-radius: 10px;
+  background-color: rgb(250, 239, 44);
+  color:rgb(66, 51, 39);
+}
+
+.extra-important {
+  color: rgb(255, 237,177);
+  border-color: rgb(247,209, 55);
+}
+
+.highlight {
+  font-weight: bold;
+}

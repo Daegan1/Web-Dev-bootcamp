@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(233, 93, 207);
+  text-align: center;
+  margin: 50px;
+}
+h1 {
+  font-family: "oswald, sans-serif";
+  color: rgb (75, 75, 71);
+}
+p {
+  font-family: "fira-sans, sans-serif";
+  font-size: 24px;
+  color: rgb (75, 75, 71);
+}
